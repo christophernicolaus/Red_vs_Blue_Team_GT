@@ -1,2 +1,4 @@
 # Red_vs_Blue_Team_GT
 Using Nmap, Dirb, Hydra, and Crack Station in order to gain access and establish a connection to the web server. Creating a PHP reverse shell payload using MSFVenom in order to create a meterpreter session on the machine and run commands in order to find the flag. Using the ELK Stack in order to identify Attacker port scan, request to hidden directories, uncovering the brute force attack, and the connection to the web server that allowed the attacker to upload the malicious PHP reverse shell payload in to | Created report on these findings and identified mitigation techniques
+
+Link to Project Presentation with screenshots of Attack and Defense with Mitigation Strategies - https://docs.google.com/presentation/d/17Du6tpqb-4H4zJCLPm_xsdGf5YqJBFTXjE9Dyt5w5vI/edit?usp=sharing
